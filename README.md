@@ -150,6 +150,14 @@ Untuk melihat daftar anggota:
 
 ### Memasukan Data Peminjaman Buku
 
+1. Kalian pencet tombol `Peminjaman Buku` yang ada di navigasi atas
+2. Lalu kalian tekan tombol `Pinjam Buku`terus isi form yang telah disediakan secara lengkap
+3. Setelah semua data dimasukan tekan tombol `Pinjam Buku`
+4. Dan akan muncul pop up `Konfirmasi` lalu tekan `Ok`
+5. Secara otomatis data akan muncul di halaman `Peminjaman Buku`
+
+![pinjam buku](./images/pinjam-buku.gif)
+
 ### Memasukan Data Pengembalian Buku
 
 ### Melihat Daftar Peminjaman Buku yang Belum Dikembalikan
