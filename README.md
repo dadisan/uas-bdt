@@ -176,3 +176,8 @@ Untuk melihat daftar anggota:
 ![daftar buku yang belu di kembalikan](./images/daftar-transaksi-yang-belum-dikembalikan.gif)
 
 ### Melihat Semua Daftar Peminjaman Buku
+
+1.  Kalian tekan saja tombol `Peminjaman Buku` yang ada di navigasi utama
+2.  Lalu secara otomatis akan muncul semua Daftar Peminjaman Buku di halaman tampilan awal `Peminjaman Buku`
+
+![return buku](./images/peminjaman-buku.gif)
