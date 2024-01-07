@@ -160,6 +160,14 @@ Untuk melihat daftar anggota:
 
 ### Memasukan Data Pengembalian Buku
 
+1. Setelah meminjam buku lalu akan mengatur tanggal pengembaliannya
+2. Caranya tekan tombol `Kembalikan`pada kolom aksi di Peminjaman buku
+3. Lalu akan muncul pop up `Form Pengembalian Buku`
+4. Setelah itu set tanggal pengembalian buku setelah itu tekan `Submit`
+5. Datanya akan otomatis hilang dan masuk ke kolom `Lihat Semua Transaksi`
+
+![return buku](./images/kembalikan-buku.gif)
+
 ### Melihat Daftar Peminjaman Buku yang Belum Dikembalikan
 
 ### Melihat Semua Daftar Peminjaman Buku
