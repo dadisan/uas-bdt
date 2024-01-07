@@ -84,14 +84,20 @@ VALUES
 Untuk menambahkan anggota baru:
 
 1. Tekan tab navigasi `Anggota`
-2. Tekan tombol `Tambah Anggota`
+2. Tekan tombol `Tambah Anggota` nanti akan di arahkan ke `Halaman Tambah Anggota`.
 3. Isikan form input `Nama` dan `Email`
 4. Tekan tombol `Tambah Anggota`
-5. Jika muncul popup/modal konfirmasi, tekan `Daftar Anggota` untuk kembali ke `Halaman Daftar Anggota`.
+5. Jika muncul popup/modal konfirmasi, tekan `Daftar Anggota` untuk kembali ke `Halaman Daftar Anggota`, tekan `Tutup` tetap di `Halaman Tambah Anggota`.
 
 ![tambah anggota baru](./images/tambah-anggota-baru.gif)
 
 ### Melihat Daftar Anggota
+
+Untuk melihat daftar anggota:
+
+1. Tekan tab navigasi `Anggota` atau path url `/members/index.php`
+
+![melihat daftar anggota](./images/melihat-daftar-anggota.gif)
 
 ### Mengubah Anggota
 
