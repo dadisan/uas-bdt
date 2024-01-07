@@ -101,6 +101,12 @@ Untuk melihat daftar anggota:
 
 ### Mengubah Anggota
 
+1. Tekan tombol `update` yang ada di kolom `aksi`
+2. Terus isikan pada kolom `nama` dan `email` apa saja yang mau diupdate
+3. Setelah mengisikan semua nya dan dirasanya semuanya sudah benar, selanjutknya tekan tombol `update anggota`
+
+![mengupdate anggota](./images/update-anggota.gif)
+
 ### Menghapus Anggota
 
 ### Menambahkan Buku
