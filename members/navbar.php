@@ -19,7 +19,7 @@
          </li>
        </ul>
      </div>
-     <a href="logout.php" class="btn btn-danger text-white ms-2 d-none d-sm-block">Logout</a>
+     <a href="../logout.php" class="btn btn-danger text-white ms-2 d-none d-sm-block">Logout</a>
    </div>
  </nav>
  <!-- Navbar End -->
