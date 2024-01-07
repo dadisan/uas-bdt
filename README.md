@@ -134,6 +134,13 @@ Untuk melihat daftar anggota:
 
 ### Mengubah Buku
 
+1. Tekan tombol `Update` pada buku yang mau diedit
+2. Langsung isikan form data buku mana yang akan di edit datanya
+3. Setelah semua sudah benar lalu tekan tombol `Update Buku`
+4. Secara otomatis data akan terupdate.
+
+![update buku](./images/update-buku.gif)
+
 ### Menghapus Buku
 
 ### Memasukan Data Peminjaman Buku
