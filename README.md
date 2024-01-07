@@ -170,4 +170,9 @@ Untuk melihat daftar anggota:
 
 ### Melihat Daftar Peminjaman Buku yang Belum Dikembalikan
 
+1. Untuk melihat Daftar Peminjaman Buku yang belum dikembalikan , kalian cukup tekan tombol `Lihat Semua Transaksi` yang ada di Peminjaman buku
+2. Terus akan muncul semua data daftar Peminjaman Buku yang belum di kembalikan
+
+![daftar buku yang belu di kembalikan](./images/daftar-transaksi-yang-belum-dikembalikan.gif)
+
 ### Melihat Semua Daftar Peminjaman Buku
