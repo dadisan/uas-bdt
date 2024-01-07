@@ -16,25 +16,31 @@ Pertama `clone/download` dulu repository ini:
 git clone https://github.com/dadisan/uas-bdt
 ```
 
+Note: Pastikan anda sudah `menginstall git` pada komputer anda:
+
+---
+
 Setelah itu mengatur database:
 
-1. Buka [PHPMyAdmin](http://localhost/phpmyadmin/) untuk membuat database `perpustakaan`
+Buka [PHPMyAdmin](http://localhost/phpmyadmin/) untuk membuat database `perpustakaan`.
 
 Contoh perintah teriminal:
 
-```bash
+```sql
 CREATE DATABASE perpustakaan;
 ```
 
-```bash
-USE DATABASE perpustakaan
+```sql
+USE DATABASE perpustakaan;
 ```
 
-Buatlah table, store procedure, function, view, dan triggernya dulu pada [PHPMyAdmin](http://localhost/phpmyadmin/). Anda dapat melihatnya pada file `\database\perpustakan.sql` pada repository ini:
+Buatlah `table`, `store procedure`, `function`, `view`, dan `trigger` dulu pada [PHPMyAdmin](http://localhost/phpmyadmin/). Anda dapat melihatnya pada file `\database\perpustakan.sql` pada repository ini:
 
 - [perpustakaan.sql](./database/perpustakaan.sql)
 
-2. Koneksikan `php` dengan `mysql`. Anda harus mengubah kode pada file `\util\connections.php` di repostiory ini.
+---
+
+Koneksikan `php` dengan `mysql`. Anda harus mengubah kode pada file `\util\connections.php` di repostiory ini.
 
 - [connection.php](./util/connection.php)
 
