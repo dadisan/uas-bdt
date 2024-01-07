@@ -117,6 +117,15 @@ Untuk melihat daftar anggota:
 
 ### Menambahkan Buku
 
+1. Pertama kalian tekan tombol `Daftar Buku` pada navigasi
+2. Terus tekan tombol `Tambah Buku` dan isi form yang disedian secara lengkap
+3. Setelah mengisikan semua datanya, lanjut tekan tombol `Tambah Buku`
+4. Lalu akan muncul pop up `Konfirmasi` tekan tombol `Daftar Buku`
+5. Terus langsung saja akan diarahkan ke halaman `Daftar Buku`
+6. Dan secara otomatis data buku nya akan langsung muncul.
+
+![tambah buku baru](./images/tambah-daftar-buku.gif)
+
 ### Melihat Daftar Buku
 
 ### Mengubah Buku
