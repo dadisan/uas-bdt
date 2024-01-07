@@ -2,11 +2,15 @@
 
 Proyek Perpustakaan Peminjaman Buku ini bertujuan untuk memberikan solusi digital yang efisien dalam manajemen peminjaman dan pengembalian buku pada suatu perpustakaan.
 
+---
+
 ## Anggota Kelompok
 
 | NIM         | Nama Lengkap        | Github                                 |
 | ----------- | ------------------- | -------------------------------------- |
 | 32602200053 | David Dimas Santana | [@dadisan](https://github.com/dadisan) |
+
+---
 
 ## Panduan Instalasi Aplikasi
 
@@ -51,9 +55,29 @@ $PASSWORD = "dapid000"; // <- ubah ini pada connection.php
 $DATABASE = "perpustakaan"; // <- ubah ini pada connection.php
 ```
 
+---
+
 ## Panduan Penggunaan Aplikasi
 
 ### Login (Masuk sebagai staff perpustakan)
+
+Login menggunakan `username` dan `password` sesuai dengan table `users` yang sudah dimasukan menggunakan kode sql:
+
+```sql
+-- menambahkan/memasukan/insert/input users
+INSERT INTO
+    users (username, `password`)
+VALUES
+    ("david", "rahasia"),
+    ("dimas", "password");
+```
+
+| username | password |
+| -------- | -------- |
+| david    | rahasia  |
+| dimas    | password |
+
+![login](./images/login.gif)
 
 ### Menambahkan Anggota Baru
 
