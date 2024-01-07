@@ -143,6 +143,11 @@ Untuk melihat daftar anggota:
 
 ### Menghapus Buku
 
+1. Caranya sama seperti `update` tapi sebaliknya kalian tekan tombol `Hapus` pada data yang akan dihapus
+2. Selanjutkan akan muncul pop up `Apakah anda yaki?` lalu tekan `Ok` untuk menghapusnya
+
+![delete buku](./images/delete-buku.gif)
+
 ### Memasukan Data Peminjaman Buku
 
 ### Memasukan Data Pengembalian Buku
