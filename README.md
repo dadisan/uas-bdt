@@ -128,6 +128,10 @@ Untuk melihat daftar anggota:
 
 ### Melihat Daftar Buku
 
+1. Tekan tombol `Daftar Buku` pada navigasi dan langsung muncul semua daftar buku yang ditambahkan
+
+![daftar anggota](./images/daftar-anggota.gif)
+
 ### Mengubah Buku
 
 ### Menghapus Buku
