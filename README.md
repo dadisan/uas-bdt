@@ -181,3 +181,13 @@ Untuk melihat daftar anggota:
 2.  Lalu secara otomatis akan muncul semua Daftar Peminjaman Buku di halaman tampilan awal `Peminjaman Buku`
 
 ![return buku](./images/peminjaman-buku.gif)
+
+### Menghapus Peminjaman buku yang telah dikembalikan
+
+1. Kalian masuk saja ke halaman `Peminjaman Buku` lalu tekan tombol `Lihat Semua Transaksi`
+2. Lalu pilih data mana yang akan di hapus
+3. Terus tekan tombol `Hapus` di kolom aksi
+4. Dan setelah itu akan muncul pop up `Konfirmasi Hapus` lalu tekan tombol `Hapus`
+5. Setelah itu data akan terhapus.
+
+![return buku](./images/delete-borrow-book.gif)
