@@ -109,6 +109,12 @@ Untuk melihat daftar anggota:
 
 ### Menghapus Anggota
 
+1. Pilih Anggota mana yang akan dihapus
+2. Lalu tekan tombol `Hapus` yang ada di kolom `Aksi`
+3. Selanjutnya akan muncul pop up yang bertuliskan `Apakah anda yakin?`, kalau yakin tekan tombol `Ok` kalau tidak tekan tombol `Cancel`.
+
+![delete anggota](./images/delete-anggota.gif)
+
 ### Menambahkan Buku
 
 ### Melihat Daftar Buku
