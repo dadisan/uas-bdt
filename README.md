@@ -11,6 +11,7 @@ Proyek Perpustakaan Peminjaman Buku ini bertujuan untuk memberikan solusi digita
 | 32602200053 | David Dimas Santana | [@dadisan](https://github.com/dadisan) |
 | 32602200055 | Difka Fannansyah    | ------------                           |
 | 32602200075 | Heru Hidayattuloh   | -----------                            |
+| 32602200050 | Dafavico Assechan   | -----------                            |
 
 ---
 
