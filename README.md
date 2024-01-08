@@ -2,6 +2,10 @@
 
 Proyek Perpustakaan Peminjaman Buku ini bertujuan untuk memberikan solusi digital yang efisien dalam manajemen peminjaman dan pengembalian buku pada suatu perpustakaan.
 
+## Link Youtube :
+
+[Tekan ini untuk menuju ke link youtube.](https://youtu.be/RCSNcFUOCYk?si=hj7vKDVS8B60tUkg)
+
 ---
 
 ## Anggota Kelompok
